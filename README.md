@@ -1,3 +1,3 @@
 # example-repo
 
-this repository's documenttion could use some work to improve it.
+This repository's documentation needs to be improved.
